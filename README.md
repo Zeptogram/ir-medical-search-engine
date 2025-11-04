@@ -1,5 +1,8 @@
 # Information Retrieval For a Medical Search Engine
 > Information Retrieval Project for University Bicocca - Milan
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+
 
 ## Introduction
 The goal of this project is to develop a search engine capable of retrieving relevant answers to
