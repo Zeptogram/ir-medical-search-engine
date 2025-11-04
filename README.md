@@ -1,4 +1,4 @@
-# ir-medical-search-engine
+# Information Retrieval For a Medical Search Engine
 > Information Retrieval Project for University Bicocca - Milan
 
 ## Introduction
