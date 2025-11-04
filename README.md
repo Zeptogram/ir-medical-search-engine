@@ -6,7 +6,7 @@ The goal of this project is to develop a search engine capable of retrieving rel
 user queries expressed in natural language. The queries are natural health-related questions
 harvested from the NutritionFacts.org website.
 ### The main approach
-The project has been developed on Google Colab. This document is structured as follows:
+The project has been developed on Google Colab. The report is structured as follows:
 - Analysis of the Data: The first part of the project is focused on importing the doc-
 uments, queries and relevance judgements and analyzing their distributions, sizes and
 particular signs.
