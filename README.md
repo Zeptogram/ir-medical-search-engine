@@ -1,6 +1,9 @@
 # Information Retrieval For a Medical Search Engine
 > Information Retrieval Project for University Bicocca - Milan
 
+[![Download Notebook](https://img.shields.io/badge/Download%20Notebook-blue.svg?style=for-the-badge)](https://github.com/user-attachments/files/23343554/Create.a.Seach.Engine.for.Medical.IR.ipynb)
+[![Download Report PDF](https://img.shields.io/badge/Download%20Report-PDF-red.svg?style=for-the-badge)](https://github.com/user-attachments/files/23343550/Create.a.Seach.Engine.for.Medical.IR.-.Report.pdf)
+[![Download Presentation PDF](https://img.shields.io/badge/Download%20Presentation-PDF-orange.svg?style=for-the-badge)](https://github.com/user-attachments/files/23343553/Create.a.Seach.Engine.for.Medical.IR.-.Slides.pdf)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
